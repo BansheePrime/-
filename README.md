@@ -1,4 +1,4 @@
-# Russian translation of tabletop RPG "Happy Birthday Dracula!" by Jonathan Sims
+# Russian translation of the tabletop RPG "Happy Birthday Dracula!" by Jonathan Sims
 
 ## Description
 
